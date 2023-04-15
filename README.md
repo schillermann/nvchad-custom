@@ -1,2 +1,3 @@
-# nvchad-custom
-Custom configuration for NvChad
+# Custom configuration for NvChad
+## Modifications
+1. tabufline plugin is disabled
